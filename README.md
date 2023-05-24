@@ -2,8 +2,10 @@
 - 👀 I’m interested in ... WEB, Spring, JavaScript
 - 🌱 I’m currently learning ... Spring Boot
 - 📫 How to reach me ... newyoung124@naver.com
-- 📜 My blog https://blog.naver.com/newyoung124
+
 <!---
 youngG124/youngG124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- 📜 My blog https://blog.naver.com/newyoung124
 --->
