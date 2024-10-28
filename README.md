@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youngG124
-- 👀 I’m interested in ... Java, WEB, JavaFX
+- 👀 I’m interested in ... Java, WEB
 - 🌱 I’m currently learning ... Java
 - 📫 How to reach me ... newyoung124@naver.com
 
