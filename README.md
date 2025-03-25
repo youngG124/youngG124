@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youngG124
-- 👀 I’m interested in ... Java, WEB
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... WEB, JS, React
+- 🌱 I’m currently learning ... React
 - 📫 How to reach me ... newyoung124@naver.com
 
 <!---
